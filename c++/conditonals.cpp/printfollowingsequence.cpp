@@ -8,6 +8,7 @@ int main() {
 
     int left = 1;      
     int right = n;     
+
  
     for (int i = 1; i <= n; i++) {
         if (i % 2 != 0) {
